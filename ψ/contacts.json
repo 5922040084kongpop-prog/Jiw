@@ -1,0 +1,19 @@
+{
+  "contacts": {
+    "jino": {
+      "repo": "C:/Users/User/Desktop/Jino",
+      "inbox": "C:/Users/User/Desktop/Jino/ψ/inbox",
+      "notes": "PM + Business Analyst (Teen)"
+    },
+    "sun": {
+      "repo": "C:/Users/User/Desktop/Sun",
+      "inbox": "C:/Users/User/Desktop/Sun/ψ/inbox",
+      "notes": "Frontend Dev + UI/UX Designer"
+    },
+    "bike": {
+      "repo": "C:/Users/User/Desktop/Bike",
+      "inbox": "C:/Users/User/Desktop/Bike/ψ/inbox",
+      "notes": "Backend Dev + DevOps"
+    }
+  }
+}
